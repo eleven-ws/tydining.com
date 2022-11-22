@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktydining_com=self.webpackChunktydining_com||[]).push([[883],{4431:function(t,e,n){n.r(e);n(2784);var a=n(4834),i=n(8778);e.default=function(t){var e=t.data.site.siteMetadata.siteUrl;return(0,i.tZ)(a.q,null,(0,i.tZ)("meta",{name:"robots",content:"noindex"}),(0,i.tZ)("meta",{"http-equiv":"Refresh",content:"0; URL="+e}))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-eac1bfe906aab89b426c.js.map
